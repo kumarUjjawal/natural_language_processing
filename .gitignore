@@ -1,0 +1,9 @@
+*.png
+*.txt
+*.csv
+*.gz
+*.tsv
+*.tsv.gz
+*.pickle
+*.csv.gz
+*.jsonl
